@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/fullbody_seg/train/images
+val: /content/drive/MyDrive/fullbody_seg/valid/images
+test: /content/drive/MyDrive/fullbody_seg/test/images
+
+nc: 1
+names: ['Person']
